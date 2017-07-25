@@ -1,6 +1,6 @@
-# Hi,Hanta!
+# Mr.Hanta
 
 ## Posts
 
 ## About
-A Web and Mobile developer.
+A Software developer for Web/Android/iOS and Life.
